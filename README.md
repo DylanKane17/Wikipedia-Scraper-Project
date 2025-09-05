@@ -24,6 +24,7 @@ This demo automatically extracts and summarises article sources cited on a desir
   source .venv/bin/activate
   pip install -r requirements.txt
   ```
+  Runs the backend at http://localhost:5000
 
 ## License
 
